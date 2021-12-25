@@ -1,0 +1,4 @@
+name: MyFirstJoinMessage
+version: '${project.version}'
+main: io.github.matsuo877.myfirstjoinmessage.MyFirstJoinMessage
+api-version: 1.16
